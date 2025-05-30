@@ -59,7 +59,3 @@ img{
   flex-direction: row;
   gap: 4vh;
 }
-
-textarea{
-  height: 30vh;
-}
